@@ -35,7 +35,7 @@ USER_NAME = "ianzero"         # 用户名
 UUID = "65a49be8-b605-43d9-bc68-a1486ac17843"                     # UUID，留空则自动生成
 PORT = 30225                   # Vmess端口，留空或0则自动生成
 DOMAIN = "88988.ip-ddns.com"                   # 域名，留空则自动获取
-CF_TOKEN = "eyJhIjoiODBmMjY5ZmQ1N2QzNzNiMmMzZTBkODc4ODg1NWM5MzIiLCJ0IjoiZmVhMzBmODUtOGY5OC00ZTVmLTkyZTktMmU2OTk2M2E1YzUyIiwicyI6Ik4yTmlZemxpTlRjdE5UVm1PQzAwTjJZekxXRmpORGt0TVdVNE5HUmtORGN3TldObSJ9"                 # Cloudflare Token，留空则用Quick Tunnel
+CF_TOKEN = ""                 # Cloudflare Token，留空则用Quick Tunnel
 # =========================================
 
 # 添加命令行参数解析
